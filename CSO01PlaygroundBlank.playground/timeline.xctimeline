@@ -2,5 +2,15 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/caua/Documents/ProgramasCSO/CSO01PlaygroundBlank/CSO01PlaygroundBlank.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=442&amp;EndingColumnNumber=5&amp;EndingLineNumber=23&amp;StartingColumnNumber=1&amp;StartingLineNumber=23&amp;Timestamp=662923173.805023"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/caua/Documents/ProgramasCSO/CSO01PlaygroundBlank/CSO01PlaygroundBlank.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=184&amp;EndingColumnNumber=0&amp;EndingLineNumber=14&amp;StartingColumnNumber=9&amp;StartingLineNumber=13&amp;Timestamp=662923173.80523"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
